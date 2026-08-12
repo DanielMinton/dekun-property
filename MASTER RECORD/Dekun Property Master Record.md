@@ -5,6 +5,10 @@
 **Contractor:** Dry1Out Restoration & Construction / Restoration Specialists dba Dry1Out  
 **Project:** Fire restoration and owner-requested improvements  
 **Record date:** August 12, 2026  
+**Revision:** 2 — August 12, 2026. Statement #1169 ledger incorporated (Section 6); prior
+figures preserved per Section 13. Figures in this record are maintained against the project
+fact ledger, `_CONTEXT/FACTS.md`; where this record and the fact ledger differ, the fact
+ledger controls.  
 **Purpose:** Consolidated factual project, contract, payment and reconciliation record
 
 ## 1. Record Standard
@@ -93,13 +97,17 @@ Anne Dekun advised Dry1Out on July 23 that a **$32,000 check** was ready from th
 
 The project correspondence contains documentation of the $6,979.92 transfer to Restoration Specialists dba Dry1Out.
 
-Final payment application remains subject to the contractor's accounting records.
+Statement #1169 (Section 6) subsequently records both payments: the $32,000 check posted
+07/24/2026 as "Payment #96," and the $6,979.92 wire posted 08/11/2026 as "Payment #dd" —
+nineteen days after initiation. Posting on the contractor's statement documents crediting;
+independent clearing evidence remains to be filed.
 
 ---
 
 # 6. August 12, 2026 Contractor Statement
 
-Dry1Out supplied an updated accounting statement on August 12, 2026 reporting a balance of:
+Dry1Out supplied Statement #1169, dated August 11, 2026 and transmitted August 12, 2026,
+reporting a balance of:
 
 # **$53,749.06**
 
@@ -107,25 +115,51 @@ This amount is maintained in this record as:
 
 **Dry1Out's stated accounting balance as of August 12, 2026.**
 
-Using the documented contract total through CO3:
+## Statement ledger (as transcribed from the statement face)
 
-**$123,659.84 − $53,749.06 = $69,910.78**
+| Date | Entry | Amount | Running balance |
+|---|---|---:|---:|
+| 06/02/2025 | Balance Forward | 0.00 | 0.00 |
+| 06/03/2025 | Invoice #7700131 | 115,428.98 | 115,428.98 |
+| 06/03/2025 | Payment #zelle | −3,500.00 | 111,928.98 |
+| 06/09/2025 | Payment #Zelle | −2,000.00 | 109,928.98 |
+| 01/27/2026 | Payment #6231805307 | −17,200.00 | 92,728.98 |
+| 07/24/2026 | Payment #96 | −32,000.00 | 60,728.98 |
+| 08/11/2026 | Payment #dd | −6,979.92 | **53,749.06** |
 
-Accordingly, the stated balance reflects **$69,910.78 in aggregate payments, credits, adjustments, or other accounting treatment** if the documented $123,659.84 contract total is the applicable starting amount.
+The statement therefore credits **$61,679.92 in total payments received**: $22,700.00 received
+before July 23, 2026 ($3,500 + $2,000 + $17,200) and the $38,979.92 July 23 payments
+(Section 5). The statement's aging section reports the entire balance as 90+ days past due.
 
-The presently identified July 23 payments total:
+## Reconciliation of the statement against the signed contract record
 
-**$38,979.92**
+| Quantity | Amount |
+|---|---:|
+| Documented signed contract total through CO3 | $123,659.84 |
+| Statement invoice base (Invoice #7700131, dated 06/03/2025) | $115,428.98 |
+| **Difference — signed total not reflected in the invoice base** | **$8,230.86** |
 
-Difference requiring accounting identification:
+Historical note, preserved per Section 13: before the statement ledger was reviewed line by
+line on August 12, 2026, this record computed an unidentified difference of **$30,930.86**
+against the July 23 payments alone. The ledger identifies that difference exactly:
+$22,700.00 in payments credited before July 23 plus the $8,230.86 invoice-base difference.
 
-**$69,910.78 − $38,979.92 = $30,930.86**
+### Reconciliation status — items remaining
 
-### Reconciliation status
-
-**Pending contractor accounting detail.**
-
-This record does not assign a characterization to the $30,930.86 difference.
+1. Invoice #7700131 has not been produced. Its stated date of 06/03/2025 precedes the
+   execution of CO1 and CO2 (December 11, 2025) and CO3 (June 23, 2026), while its amount
+   necessarily includes them; the relationship between the invoice date and the change-order
+   dates is pending the contractor's documentation.
+2. The source and intended application of the three pre-July payments ($3,500, $2,000,
+   $17,200) are pending confirmation against the owner's bank and escrow records.
+3. The $8,230.86 by which the signed contract total exceeds the invoiced amount is
+   unidentified. As invoiced, it runs in the owner's favor; it is not treated as a credit
+   pending clarification of what remains uninvoiced.
+4. Allocation of the balance between insurance-funded scope and owner-funded change-order
+   scope is pending the contractor's line-item accounting.
+5. The aging characterization (entire balance 90+ days past due) follows arithmetically from
+   the 06/03/2025 invoice date and is noted; amounts attributable to 2026 change-order work
+   cannot have aged 90+ days as of the statement date.
 
 ---
 
@@ -143,7 +177,10 @@ The current August 12 statement reports:
 
 **$53,749.06**
 
-The derivation and relationship among these amounts remain subject to reconciliation against the contractor's payment ledger, invoices, credits and contract/change-order application.
+Statement #1169's ledger (Section 6) now supplies the payment postings underlying the current
+balance. The derivation of the invoice amounts themselves — Invoice #7700131 and Invoice
+#6780972 — remains subject to production of those invoices and the contractor's
+contract/change-order application.
 
 ---
 
@@ -241,9 +278,9 @@ As of August 12, 2026:
 
 | Item | Status |
 |---|---|
-| Current Dry1Out balance | **Received — $53,749.06** |
-| Invoices supporting current statement | **Pending** |
-| Application of payments received | **Pending** |
+| Current Dry1Out balance | **Received — $53,749.06** (Statement #1169) |
+| Invoices supporting current statement (#7700131, #6780972) | **Pending** |
+| Application of payments received | **Partially received** — postings with dates and references appear on Statement #1169; allocation to contract lines and scope categories pending |
 | Credits issued or pending | **Pending** |
 | Insurance-scope/change-order reconciliation | **Pending** |
 | Approved scope document supporting paint position | **Pending** |
@@ -251,6 +288,10 @@ As of August 12, 2026:
 | Walkthrough scheduling | **Pending** |
 | Supporting engineering documentation | **Not established in current record** |
 | Hazardous-material supporting documentation | **Not established in current record** |
+| Owner-side confirmation of pre-July payments ($3,500 / $2,000 / $17,200) | **Pending — owner records** |
+
+The live open-items register, with identifiers and closure history, is maintained at
+`_CONTEXT/OPEN-ITEMS.md`.
 
 ---
 
@@ -261,12 +302,17 @@ As of August 12, 2026:
 | Documented contract total through CO3 | **$123,659.84** |
 | Original contract + CO1 | **$61,461.87** |
 | CO2 + CO3 | **$62,197.97** |
-| July 23 owner payments | **$38,979.92** |
-| Dry1Out 8/12 stated balance | **$53,749.06** |
-| Aggregate payments/credits implied by stated balance | **$69,910.78** |
-| Portion of implied payments/credits not identified by July 23 payment alone | **$30,930.86** |
+| Statement invoice base (Invoice #7700131) | **$115,428.98** |
+| Total payments credited on Statement #1169 | **$61,679.92** |
+| — of which credited before July 23, 2026 | **$22,700.00** |
+| — of which July 23, 2026 payments | **$38,979.92** |
+| Dry1Out stated balance (Statement #1169) | **$53,749.06** |
+| Signed contract total not reflected in invoice base | **$8,230.86** |
 
-The table is a mathematical reconciliation of currently available documents. It does not independently determine the amount ultimately payable.
+The table is a mathematical reconciliation of currently available documents. It does not
+independently determine the amount ultimately payable. Prior revisions of this table
+(preserved in version control) reported a $30,930.86 unidentified difference; Section 6
+records its identification from the statement ledger.
 
 ---
 
@@ -286,6 +332,9 @@ This Master Record should be updated whenever any of the following occurs:
 - project reaches substantial/final completion.
 
 Changes should preserve prior figures and dates rather than overwrite historical representations.
+
+Figures are entered in `_CONTEXT/FACTS.md` first and propagated to this record; the project
+git history preserves every prior revision of this document.
 
 The governing principle of this record is:
 

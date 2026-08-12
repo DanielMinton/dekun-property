@@ -9,6 +9,13 @@
 
 Naming convention: `YYYY-MM-DD_TYPE_descriptor_amount_status.ext`, dated by **document date**, not file date.
 
+> **Revised 2026-08-12 (rev 2).** Figures below are reconciled to the project fact ledger,
+> `_CONTEXT/FACTS.md`, which controls where any document disagrees. Files listed here now live
+> in the reorganized tree — contracts, payments, billing, correspondence and regulatory captures
+> under `01_EVIDENCE/`, analysis under `02_ANALYSIS/`, quarantine under `05_ARCHIVE/_removed/`;
+> per-file locations in `_CONTEXT/DOCUMENT-MAP.md`. The pre-revision text of this manifest is
+> preserved at git commit `cc95e52`.
+
 ---
 
 ## Contract & change orders
@@ -67,6 +74,11 @@ status than a lapsed license.
 **Sequencing note:** this capture is timestamped 13:04 on 2026-08-10; Daniel's six-part financial
 records demand in the retained email thread was sent at 13:41 the same day, 37 minutes later.
 
+**Corroboration (added rev 2):** a second copy of this capture, exported from the claude.ai
+project, was proven **pixel-identical** on 2026-08-12 (decoded image buffers hash-equal; byte
+difference is PNG re-encoding only). Two independent storage paths, same image content. This
+file remains the operative copy. Details: `_CONTEXT/FACTS.md` D-4.
+
 ## Correspondence
 
 | File | Contents |
@@ -88,16 +100,24 @@ records demand in the retained email thread was sent at 13:41 the same day, 37 m
 |---|---|
 | Signed contract total | $123,659.84 |
 | Insurance approved (RCV, 05-80C1-98PC) | $61,461.87 |
-| Owner paid 2026-07-23 ($32,000 check + $6,979.92 wire) | $38,979.92 |
+| Statement #1169 invoice base (Invoice #7700131, dated 06/03/2025) | $115,428.98 |
+| Total payments credited on statement #1169 | $61,679.92 |
+| — credited before 7/23/26 ($3,500 + $2,000 + $17,200) | $22,700.00 |
+| — 7/23/26 payments as posted ($32,000 check + $6,979.92 wire) | $38,979.92 |
 | Dry1Out asserted balance (statement #1169) | $53,749.06 |
-| Credits the asserted balance implies | $69,910.78 |
-| **Credits with no documented source** | **$30,930.86** |
+| **Signed total not reflected in invoice base — unidentified, favors owner as invoiced** | **$8,230.86** |
+
+Rev 1 of this table reported "$30,930.86 credits with no documented source." The statement
+ledger identifies that figure exactly: $22,700.00 pre-July payments + $8,230.86 invoice-base
+difference (`_CONTEXT/FACTS.md` D-1). The live questions are the composition and 06/03/2025
+dating of invoice #7700131 (which predates every change order it must contain), the source of
+the $22,700 (escrow vs. personal — owner records), and what the uninvoiced $8,230.86 is.
 
 Four different balances asserted for the same debt in six weeks: $38,159.84 (Jun 30 demand) ·
 $39,917.96 (invoice #6780972) · $31,098.99 (Dry1Out's own stated "50% of each change order" policy,
 as computed) · $53,749.06 (statement of Aug 12).
 
-## `_removed/`
+## `_removed/` (now `05_ARCHIVE/_removed/`)
 
 Quarantined, not deleted — delete the folder when you're satisfied.
 
@@ -113,6 +133,13 @@ serial, IMEI and EID. Nothing project-related appeared on any of them; each was 
 specifically against the possibility that it was the missing CSLB record, and none was.
 
 ## Open items not resolved by anything in this folder
+
+> **Rev 2:** the live register is `_CONTEXT/OPEN-ITEMS.md` (R-numbered, with closure history).
+> The items below are preserved as written in rev 1; current statuses: item 1 remains open as
+> to effective date (R-013); item 2 is reframed by the statement ledger into R-011 ($8,230.86)
+> and R-016 (invoice #7700131); item 5 — the check posted 07/24/2026 as "Payment #96" on
+> statement #1169, clearing evidence still open; items 3, 4, 6 unchanged (R-005, R-009/R-010,
+> R-021).
 
 1. **CSLB suspension effective date — still open, and still the decisive fact.**
    *Partially closed 2026-08-12:* the 8/10 capture cited by the timeline and findings v1.0 was

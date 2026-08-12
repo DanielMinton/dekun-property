@@ -57,6 +57,7 @@ FACTS.md; this file orders events. Entries marked ⚠ are load-bearing for an op
 | 2026-08-12 | Statement read line-by-line; $30,930.86 decomposed (D-1). `_CONTEXT/` layer created; all prior files preserved byte-identical. | STMT-1169; this layer |
 | 2026-08-12 (later) | CSLB capture pair proven pixel-identical (D-4 resolved, R-019 closed). Repository reorganized into numbered tree (01_EVIDENCE … 05_ARCHIVE); files moved, never edited; all 32 hashes re-verified post-move. Staging folders 03_OUTBOUND / 04_COUNSEL created with gates. | DOCUMENT-MAP; HASHES.sha256 |
 | 2026-08-12 (later) | Git initialized over the whole record — root commit `cc95e52`, 90 files, evidence-grade config (no content rewriting). Export repo's history preserved as `.git-archive`. Post-commit hash spot-check clean. | `_CONTEXT/README.md` §Version control |
+| 2026-08-12 (later) | MASTER RECORD and MANIFEST revised to rev 2, pulling from FACTS.md: D-1 decomposition replaces the $30,930.86 framing in both (prior figures preserved as historical notes); MR §6 rebuilt around the statement ledger. Remaining D-1 carriers: INT-RECON, TL-0812, FIND-2.0, EXP-RECON (unedited historical artifacts). | MR rev 2; MANIFEST rev 2; FACTS D-1 |
 
 ## Standing forward events (from MR §13 record-control triggers)
 

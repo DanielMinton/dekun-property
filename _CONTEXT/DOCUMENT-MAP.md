@@ -46,14 +46,14 @@ correspondence (EMAIL) · regulatory (CSLB).
 | **FIND-1.0** | `2026-08-10_ANALYSIS_findings-v1.0_INTERNAL-DRAFT_3pp.pdf` | SUPERSEDED IN PART by FIND-2.0 (CSLB downgraded to VERIFY) and by FACTS.md discrepancy D-1. Retains unique content: prioritized action list, double-billing line-item detail. Adversarial framing — internal historical artifact only. |
 | **FIND-2.0** | `2026-08-10_ANALYSIS_findings-v2.0_condensed_2pp.pdf` | Measured-tone condensed review. Its "VERIFY" flag on CSLB status is satisfied as to 8/10 status (CSLB-0810), open as to effective date. Carries the $30,930.86 framing — see FACTS.md D-1. |
 | **TL-0812** | `2026-08-12_ANALYSIS_master-timeline.pdf` | Timeline infographic. Carries the "$30,930.86 unexplained credit gap" — superseded on that point by FACTS.md D-1. Raster duplicates quarantined (Q-TL-PNG, Q-TL-WEBP). |
-| **MANIFEST** | `MANIFEST.md` (root) | Document manifest, thorough as of 8/12 morning; **now historical**: its file paths describe the pre-reorganization root layout (this map supersedes it for locations), and its "Key reconciliation" table carries the $30,930.86 framing — superseded by FACTS.md D-1. Its open items 1–6 are absorbed into OPEN-ITEMS.md. Left unedited as the record of the pre-reorg state; its `_removed` verification notes remain the authoritative account of the quarantine decisions. |
+| **MANIFEST** | `MANIFEST.md` (root) | Document manifest. **Rev 2, 2026-08-12:** now pulls from FACTS.md — reconciliation table corrected (D-1 decomposition, $8,230.86 headline), location note added for the reorganized tree, CSLB pixel-identity corroboration added, open items handed off to OPEN-ITEMS.md with rev-1 text preserved. Rev 1 at git `cc95e52`. Its `_removed` verification notes remain the authoritative account of the quarantine decisions. |
 
 ## Tier documents
 
 | ID | File | Status / notes |
 |---|---|---|
 | **INT-RECON** | `INTERNAL ONLY\DANIEL & ANNE'S ABSOLUTELY-NOT-FOR-DRY1OUT MASTER RECONCILIATION.md` | Internal analysis, 8/12. §17 classification vocabulary adopted project-wide (see _CONTEXT/README.md). §7's $30,930.86 "UNRECONCILED" — superseded by FACTS.md D-1. §18 register absorbed into OPEN-ITEMS.md (numbering preserved). |
-| **MR** | `MASTER RECORD\Dekun Property Master Record.md` | Sanitized consolidated record, 8/12. §6/§12 carry the $30,930.86 framing — superseded on that point by FACTS.md D-1. Update per its own §13 record-control rules when next revised. |
+| **MR** | `MASTER RECORD\Dekun Property Master Record.md` | Sanitized consolidated record. **Rev 2, 2026-08-12:** now pulls from FACTS.md — §6 rebuilt around the statement #1169 ledger with the $30,930.86 identification recorded as a historical note per its own §13 rule; §5 posting facts, §11 statuses, §12 snapshot updated. Rev 1 at git `cc95e52`. |
 
 ## `05_ARCHIVE\_removed\` — quarantine (retained deliberately, provenance artifacts)
 
