@@ -55,6 +55,12 @@ correspondence (EMAIL) · regulatory (CSLB).
 | **INT-RECON** | `INTERNAL ONLY\DANIEL & ANNE'S ABSOLUTELY-NOT-FOR-DRY1OUT MASTER RECONCILIATION.md` | Internal analysis. **Rev 2, 2026-08-12:** pulls from FACTS.md — §7 rebuilt around the D-1 decomposition (rev-1 text preserved in place, marked superseded), §5 posting facts + F-4 wire observation, §6 caution on the $23,218.05 reference point, §8/§16/§21 updated, §18 hands the live register to OPEN-ITEMS.md. §17 classification vocabulary remains adopted project-wide. Rev 1 at git `cc95e52`. |
 | **MR** | `MASTER RECORD\Dekun Property Master Record.md` | Sanitized consolidated record. **Rev 2, 2026-08-12:** now pulls from FACTS.md — §6 rebuilt around the statement #1169 ledger with the $30,930.86 identification recorded as a historical note per its own §13 rule; §5 posting facts, §11 statuses, §12 snapshot updated. Rev 1 at git `cc95e52`. |
 
+## `03_OUTBOUND\` — deliverables
+
+| ID | File | Status / notes |
+|---|---|---|
+| **OUT-DRAFT-1** | `2026-08-12_DRAFT_records-follow-up_Charles.md` | Records follow-up, Daniel's voice, reply-all on the paint-coordination thread. **DRAFT — staged, not sent.** Passed all four gate checks 2026-08-12 (review recorded below the cut line in the file). Recommended hold until R-012 (owner bank/escrow records); re-run gate check 1 if facts change before sending. Supersedes the archived rev-1 draft in EXP-RECON, which fails gate 1. |
+
 ## `05_ARCHIVE\_removed\` — quarantine (retained deliberately, provenance artifacts)
 
 | ID | File | Reason |
