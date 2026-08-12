@@ -55,6 +55,13 @@ sidecars). The former nested repo at `05_ARCHIVE\dekun-property-export\.git` was
 `.git-archive` so its 2026-08-12 export history is preserved as tracked data inside this
 repository (restorable by renaming back).
 
+**Controlled copies (R-020 inventory):** (1) this working copy on the USB drive ("Work Infra",
+exFAT); (2) private GitHub repository `DanielMinton/dekun-property`
+(https://github.com/DanielMinton/dekun-property, visibility PRIVATE, created and first pushed
+2026-08-12) — remote `origin`, access limited to the DanielMinton account. Push after every
+commit so the off-site copy stays current. No other copies are known; if one is created,
+list it here.
+
 Commit convention (from the export repo's README, adopted project-wide): dated messages,
 e.g. `2026-08-15: add CO4, update reconciliation`. Commit on every substantive change —
 new evidence, register updates, record revisions. Never amend or rebase published history;
