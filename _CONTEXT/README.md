@@ -46,6 +46,21 @@ rewriting:
 | `ENTITIES.md` | People, organizations, accounts, and identifiers, and how they connect. |
 | `OPEN-ITEMS.md` | Consolidated open-items register (R-001 onward), merging the registers previously split across MANIFEST and the internal reconciliation. |
 
+## Version control (initialized 2026-08-12)
+
+The whole record is a git repository as of commit `cc95e52` (branch `master`). Configuration
+is evidence-grade: `core.autocrlf=false` and `* -text` in `.gitattributes` — git never rewrites
+file content. `.gitignore` excludes only OS/IDE junk (`.idea/`, `desktop.ini`, AppleDouble
+sidecars). The former nested repo at `05_ARCHIVE\dekun-property-export\.git` was renamed
+`.git-archive` so its 2026-08-12 export history is preserved as tracked data inside this
+repository (restorable by renaming back).
+
+Commit convention (from the export repo's README, adopted project-wide): dated messages,
+e.g. `2026-08-15: add CO4, update reconciliation`. Commit on every substantive change —
+new evidence, register updates, record revisions. Never amend or rebase published history;
+corrections are new commits. Git history now provides the tamper-evidence that HASHES.sha256
+bootstrapped; keep both (the hash file travels with copies that leave git).
+
 ## Update discipline
 
 1. New document arrives → hash it, append to `HASHES.sha256`, add a row to `DOCUMENT-MAP.md`.

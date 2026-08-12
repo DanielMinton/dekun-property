@@ -56,6 +56,7 @@ FACTS.md; this file orders events. Entries marked ⚠ are load-bearing for an op
 | 2026-08-12 07:50 | Charles transmits statement #1169, one sentence; Diego to reach out on return. Answers 1 of 6 requested items (F-5). | EMAIL-0812 |
 | 2026-08-12 | Statement read line-by-line; $30,930.86 decomposed (D-1). `_CONTEXT/` layer created; all prior files preserved byte-identical. | STMT-1169; this layer |
 | 2026-08-12 (later) | CSLB capture pair proven pixel-identical (D-4 resolved, R-019 closed). Repository reorganized into numbered tree (01_EVIDENCE … 05_ARCHIVE); files moved, never edited; all 32 hashes re-verified post-move. Staging folders 03_OUTBOUND / 04_COUNSEL created with gates. | DOCUMENT-MAP; HASHES.sha256 |
+| 2026-08-12 (later) | Git initialized over the whole record — root commit `cc95e52`, 90 files, evidence-grade config (no content rewriting). Export repo's history preserved as `.git-archive`. Post-commit hash spot-check clean. | `_CONTEXT/README.md` §Version control |
 
 ## Standing forward events (from MR §13 record-control triggers)
 

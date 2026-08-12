@@ -68,7 +68,11 @@ Also recorded in MANIFEST: three iPhone Settings screenshots (IMG_0001–0003.PN
 were **deleted** on review — device-identifier exposure, no project content. Deletion is documented
 there; noted here so the record of the deletion survives any future MANIFEST revision.
 
-## `05_ARCHIVE\dekun-property-export\` — claude.ai project export (git-versioned, partially stale)
+## `05_ARCHIVE\dekun-property-export\` — claude.ai project export (partially stale)
+
+Its own git history (one commit, the 2026-08-12 export) is preserved at `.git-archive\` —
+renamed from `.git` on 2026-08-12 so the outer repository (initialized that day, root commit
+`cc95e52`) tracks the export's files directly instead of holding an untracked embedded repo.
 
 | ID | File | Status / notes |
 |---|---|---|
