@@ -5,6 +5,9 @@
 **Contractor:** Dry1Out Restoration & Construction / Restoration Specialists dba Dry1Out  
 **Project:** Fire restoration and owner-requested improvements  
 **Status date:** August 12, 2026  
+**Revision:** 2 — August 12, 2026. Statement #1169 ledger incorporated; figures pull from
+`_CONTEXT/FACTS.md`, which controls where this document and the fact ledger differ. Prior
+figures preserved in place as historical notes; rev 1 at git commit `cc95e52`.  
 **Classification:** **PRIVATE INTERNAL WORK PRODUCT — DANIEL & ANNE ONLY**
 
 > This document is intentionally broader than any record supplied to Dry1Out. It contains internal analysis, unresolved hypotheses, potential discrepancies, strategic observations, and matters identified for possible attorney review. Items appearing here are not necessarily established facts or allegations.
@@ -133,6 +136,18 @@ Until confirmed, distinguish between:
 
 Those are three separate facts.
 
+### Rev 2 — postings now documented (STMT-1169, read 8/12)
+
+Both July 23 payments are **credited** on Dry1Out's own statement: the $32,000 check posted
+07/24/2026 as "Payment #96"; the $6,979.92 wire posted 08/11/2026 as "Payment #dd."
+
+Internal observation (F-4): the wire posted **nineteen days after initiation**, and 4–6 days
+after Charles asserted non-receipt on 8/5 and again 8/7. Their own paper now contradicts, or
+at minimum post-dates, those assertions. Whether the wire was genuinely in transit, misrouted
+to different account details, or received-but-unposted is answerable only by the bank's
+printed wire record (R-018) — obtain it before drawing any conclusion. Clearing evidence for
+the check remains open; posted ≠ cleared.
+
 ---
 
 # 6. Owner-Side Arithmetic
@@ -149,6 +164,14 @@ Therefore:
 
 It deliberately ignores unresolved credits, scope overlap, completion, subsequent authorized changes and payment-allocation questions.
 
+**Rev 2 caution:** it also ignores the **$22,700 in pre-July payments** now documented on
+statement #1169 ($3,500 Zelle 6/3/25 · $2,000 Zelle 6/9/25 · $17,200 payment #6231805307
+1/27/26). Until R-012 establishes the source of each (escrow draw against insurance proceeds
+vs. Anne's personal funds), it is unknown whether any of that $22,700 should offset the
+owner-side figure above. If, e.g., the $17,200 was an escrow draw, it belongs to the insurance
+side and $23,218.05 stands; if personal, the owner-side remainder is smaller. Do not use
+$23,218.05 in any communication until that split is established.
+
 ---
 
 # 7. Dry1Out's August 12 Balance
@@ -163,33 +186,46 @@ Internal characterization:
 
 > **$53,749.06 = Dry1Out's asserted accounting balance as of August 12, 2026. It is not an admission by Anne that $53,749.06 is valid, properly calculated, presently due, or owed.**
 
-## Implied payment/credit test
+## Implied payment/credit test — REV 1, SUPERSEDED (preserved for the record)
 
-Using the documented signed contract total:
+> Rev 1 computed: $123,659.84 − $53,749.06 = $69,910.78 implied credits; less the $38,979.92
+> July 23 payments left **$30,930.86 UNRECONCILED**, with instruction not to characterize it
+> as missing money. That instruction proved correct — see below.
 
-**$123,659.84 − $53,749.06 = $69,910.78**
+## Rev 2 — the statement ledger identifies the difference exactly (FACTS.md D-1)
 
-Therefore Dry1Out's current balance necessarily reflects approximately:
+The statement's own face resolves the rev-1 gap. Dry1Out does not start from the signed
+contract total; it starts from **Invoice #7700131, $115,428.98, dated 06/03/2025**, and
+credits **$61,679.92** in payments:
 
-**$69,910.78 in aggregate payments, credits, adjustments or some combination thereof.**
+**$22,700.00** pre-July payments ($3,500 Zelle 6/3/25 + $2,000 Zelle 6/9/25 + $17,200
+payment #6231805307 1/27/26 — omitted from rev 1, which treated 7/23 as the only payments)  
+**+ $8,230.86** invoice-base difference ($123,659.84 signed total − $115,428.98 invoiced)  
+**= $30,930.86.** Identified to the penny.
 
-Known July 23 payments:
+### What replaces it as the live internal questions
 
-**$38,979.92**
+1. **Invoice #7700131's date is the anomaly (D-2).** $115,428.98 on 06/03/2025 necessarily
+   includes CO1 and CO2 (signed 12/11/25) and some or all of CO3 (signed 6/23/26). Either the
+   invoice was restated in place under its original date — meaning their accounting does not
+   preserve history — or no 6/3/25 invoice existed at that amount. Obtain the invoice (R-016).
+2. **The $8,230.86 runs in Anne's favor as invoiced** — Dry1Out has invoiced less than the
+   signed total. Do NOT treat it as a credit: the likelier explanation is simply uninvoiced
+   scope (e.g. CO3 and/or part of CO2), in which case a further invoice should be expected.
+   Identify it (R-011).
+3. **The $22,700 needs owner-side confirmation and source attribution** (R-012) — see the
+   §6 caution. This single fact re-allocates most of the balance between insurance-funded
+   and owner-funded scope.
+4. **The aging column is an artifact (D-3):** the whole $53,749.06 shows "90+ days past due,"
+   which follows mechanically from aging everything to 6/3/25. Harmless until interest, late
+   fees, or collection posture attach to it — object then, from the record, not before.
 
-Difference:
+### Strategic note
 
-**$69,910.78 − $38,979.92 = $30,930.86**
-
-### Internal status
-
-**$30,930.86 — UNRECONCILED**
-
-Do not characterize this as missing money.
-
-It represents the amount of additional payments/credits/adjustments that must mathematically exist somewhere in Dry1Out's calculation **if $123,659.84 remains the applicable contract total and $53,749.06 is the resulting balance.**
-
-Dry1Out has not yet supplied sufficient underlying accounting to identify that amount.
+Rev 1's framing invited a records demand about a "gap" Charles could close in one sentence by
+pointing at his own statement. The corrected posture is stronger: every remaining question —
+the invoice composition and dating, the $8,230.86, the credit crosswalk — is answerable only
+from records Dry1Out has not produced, and none can be waved off by re-sending the statement.
 
 ---
 
@@ -209,6 +245,12 @@ Current known figures:
 | Current 8/12 accounting balance | $53,749.06 |
 
 Charles subsequently responded that the amount due was what accounting had placed on the invoice rather than supplying the requested derivation.
+
+**Rev 2:** statement #1169 now supplies the payment postings behind $53,749.06 but not the
+derivation of the invoice base itself. The four-figure variance ($38,159.84 → $39,917.96 →
+$31,098.99 computed → $53,749.06) remains unexplained at the invoice level; production of
+invoices #7700131 and #6780972 (R-016) is what turns the variance into either reconciliation
+or admission.
 
 ### Internal conclusion
 
@@ -416,6 +458,11 @@ The existing condensed findings correctly classify this:
 
 The documents themselves do not establish the effective dates or legal consequences of any suspension.
 
+**Rev 2:** the 8/10 capture is filed as CSLB-0810 (`01_EVIDENCE/regulatory/`), hash-recorded,
+and corroborated 8/12 by a pixel-identical second copy from an independent storage path
+(FACTS.md D-4). Current status as of 8/10/26 is therefore documented; the suspension
+**effective date remains the decisive open fact** (R-013 — certified license history).
+
 ### INTERNAL ONLY
 
 Before communicating anything regarding licensing:
@@ -462,11 +509,15 @@ Significance depends on applicable law and counsel's analysis.
 
 # 18. Open Dry1Out Record Requests
 
+> **Rev 2:** the live register — including closure history and items R-011 through R-022
+> surfaced by the statement reading — is `_CONTEXT/OPEN-ITEMS.md`. The rows below are kept
+> current for the original R-001–R-010 series only.
+
 | ID | Record | Status |
 |---|---|---|
-| R-001 | Current balance | **Received — $53,749.06** |
-| R-002 | Invoices supporting statement | **OPEN** |
-| R-003 | Application of payments | **OPEN** |
+| R-001 | Current balance | **Received — $53,749.06** (STMT-1169, 8/12) |
+| R-002 | Invoices supporting statement | **OPEN** — above all #7700131 (see §7 rev 2) |
+| R-003 | Application of payments | **PARTIALLY ANSWERED** — postings with dates/refs on STMT-1169; allocation to contract lines and scope categories still open |
 | R-004 | Credits issued/pending | **OPEN** |
 | R-005 | Insurance-scope/change-order reconciliation | **OPEN** |
 | R-006 | Approved scope supporting paint position | **OPEN** |
@@ -528,7 +579,7 @@ Counsel should receive:
 
 ---
 
-# 21. Internal Bottom Line — 8/12/26
+# 21. Internal Bottom Line — 8/12/26 (rev 2)
 
 ### Established
 
@@ -538,26 +589,33 @@ Counsel should receive:
 
 **CO2 + CO3 owner-side gross:** $62,197.97
 
-**Documented July 23 owner payment:** $38,979.92
+**Documented July 23 owner payment:** $38,979.92 (both posted on STMT-1169)
 
-**Dry1Out 8/12 asserted balance:** $53,749.06
+**Dry1Out 8/12 asserted balance:** $53,749.06 (STMT-1169)
 
-**Payments/credits mathematically implied by that balance:** $69,910.78
+**Statement invoice base:** $115,428.98 (Invoice #7700131, dated 06/03/2025)
 
-**Difference between implied credits/payments and July 23 payment:** $30,930.86
+**Total payments credited by Dry1Out:** $61,679.92 — of which $22,700.00 predates July 23
+
+**Signed total not reflected in invoice base:** $8,230.86 (favors owner as invoiced)
+
+*(Rev 1 reported $69,910.78 implied credits and a $30,930.86 unreconciled difference;
+the statement ledger identified that difference as $22,700.00 + $8,230.86 — see §7.)*
 
 ### Not established
 
 The currently available record does **not** establish:
 
-- how Dry1Out derived $53,749.06;
-- what comprises the additional $30,930.86 of implied payments/credits/adjustments;
-- complete payment application;
+- what Invoice #7700131 comprises, or why it is dated 06/03/2025 when its amount
+  necessarily includes change orders executed 6–12 months later;
+- what the uninvoiced $8,230.86 is;
+- the source (escrow vs. personal) and intended application of the $22,700 pre-July payments;
+- allocation of the balance between insurance-funded and owner-funded scope;
 - complete insurance-to-upgrade credit treatment;
 - final countertop upgrade price;
 - whether every CO2/CO3 item was actually completed;
 - whether apparent scope overlaps represent legitimate incremental work or duplicate charging;
-- the legal effect of any contractor-license issue.
+- the legal effect of any contractor-license issue (effective date still unknown — R-013).
 
 ### Working strategy
 

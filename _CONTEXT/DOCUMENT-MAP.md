@@ -52,7 +52,7 @@ correspondence (EMAIL) · regulatory (CSLB).
 
 | ID | File | Status / notes |
 |---|---|---|
-| **INT-RECON** | `INTERNAL ONLY\DANIEL & ANNE'S ABSOLUTELY-NOT-FOR-DRY1OUT MASTER RECONCILIATION.md` | Internal analysis, 8/12. §17 classification vocabulary adopted project-wide (see _CONTEXT/README.md). §7's $30,930.86 "UNRECONCILED" — superseded by FACTS.md D-1. §18 register absorbed into OPEN-ITEMS.md (numbering preserved). |
+| **INT-RECON** | `INTERNAL ONLY\DANIEL & ANNE'S ABSOLUTELY-NOT-FOR-DRY1OUT MASTER RECONCILIATION.md` | Internal analysis. **Rev 2, 2026-08-12:** pulls from FACTS.md — §7 rebuilt around the D-1 decomposition (rev-1 text preserved in place, marked superseded), §5 posting facts + F-4 wire observation, §6 caution on the $23,218.05 reference point, §8/§16/§21 updated, §18 hands the live register to OPEN-ITEMS.md. §17 classification vocabulary remains adopted project-wide. Rev 1 at git `cc95e52`. |
 | **MR** | `MASTER RECORD\Dekun Property Master Record.md` | Sanitized consolidated record. **Rev 2, 2026-08-12:** now pulls from FACTS.md — §6 rebuilt around the statement #1169 ledger with the $30,930.86 identification recorded as a historical note per its own §13 rule; §5 posting facts, §11 statuses, §12 snapshot updated. Rev 1 at git `cc95e52`. |
 
 ## `05_ARCHIVE\_removed\` — quarantine (retained deliberately, provenance artifacts)

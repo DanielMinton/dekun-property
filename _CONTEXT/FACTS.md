@@ -124,10 +124,10 @@ Delivered/cleared/credited are three separate facts (INT-RECON §5). The 7/23 pa
 ### D-1 · The "$30,930.86 unexplained credit gap" is fully decomposed by STMT-1169's own face
 **Recorded:** 2026-08-12, on line-by-line reading of STMT-1169.
 **Carried by (all predate or omit the ledger reading):** MANIFEST "Key reconciliation" · INT-RECON §7, §21 · MR §6, §12 · TL-0812 · FIND-2.0 · EXP-RECON "$53,749.06 test."
-**Update 2026-08-12 (rev 2):** MANIFEST and MR were revised to pull from this file — both now
-carry the corrected decomposition with the prior figure preserved as a historical note.
-Remaining carriers of the superseded framing: INT-RECON §7/§21, TL-0812, FIND-2.0, EXP-RECON
-(all retained unedited as historical artifacts).
+**Update 2026-08-12 (rev 2):** MANIFEST, MR, and INT-RECON were revised to pull from this
+file — all three now carry the corrected decomposition with the rev-1 figures preserved in
+place as historical notes. Remaining carriers of the superseded framing: TL-0812, FIND-2.0,
+EXP-RECON (PDF/archived artifacts, retained unedited).
 **Decomposition:** the gap was computed as (contract $123,659.84 − balance $53,749.06) − 7/23
 payments $38,979.92 = $30,930.86. The statement face supplies it exactly:
 **$22,700.00** prior payments (6/3/25 Zelle $3,500 + 6/9/25 Zelle $2,000 + 1/27/26 #6231805307
@@ -138,7 +138,7 @@ $17,200 — omitted from the analyses, which treated 7/23 as the only owner paym
 wherever it appears. The live questions it collapses into: R-012 (confirm the $22,700 from owner
 records and identify each source) and R-011 (what is the $8,230.86 invoice-base difference — note
 it runs in Anne's FAVOR: Dry1Out has invoiced less than the signed total).
-**Analysis PDFs and INT-RECON intentionally left unedited; MANIFEST and MR revised 2026-08-12 by explicit instruction (git history preserves rev 1 at `cc95e52`).**
+**Analysis PDFs left unedited; MANIFEST, MR, and INT-RECON revised 2026-08-12 by explicit instruction (git history preserves rev 1 at `cc95e52`).**
 
 ### D-2 · Invoice #7700131 dated 06/03/2025 at $115,428.98 predates most of what it must contain
 $115,428.98 exceeds the original contract ($54,448.97) by $60,980.01 and necessarily includes
