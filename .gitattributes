@@ -1,0 +1,3 @@
+# Evidence-grade repository: git must NEVER rewrite file content.
+# No line-ending normalization, no text conversion, for any file.
+* -text

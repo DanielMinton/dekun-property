@@ -1,0 +1,107 @@
+Condensed documentation review | Not legal advice
+DRY1OUT PROJECT FINDINGS
+Condensed Documentation & Risk Summary
+361 Arroyo Drive, South San Francisco | August 2026
+Purpose: identify what the current documents actually establish, where Dry1Out statements do not cleanly match those 
+documents, and what should be verified next. This is a document review, not legal advice.
+BOTTOM LINE
+• The strongest issue is not bad arithmetic. The major signed change-order totals appear internally consistent.
+• The stronger problem is documentation and attribution: scope descriptions, payment demands, insurance-funded work, customerfunded upgrades, and delay explanations do not always reconcile cleanly.
+• Dry1Out's paint description is materially narrower than the State Farm estimate. State Farm funds painting by measured surface and
+coat; the reviewed estimate does not state a "one color only" requirement.
+• Anne repeatedly asked for ordinary billing support before payment. The correspondence shows conflicting payment figures and 
+responses that did not explain the derivation.
+• There is real overlap exposure between insurance-funded plumbing/electrical/countertop work and later customer-funded upgrades. 
+That is not proof of double billing, but it requires a line-by-line credit/reconciliation.
+WHAT MATTERS MOST
+Issue What the record shows Why it matters Status
+Paint scope State Farm separately funds 
+prep/seal/paint for Entry Hall, Hallway, 
+Kitchen, Family Room/Stairs, Closet, 1/2 
+Bath and Laundry. It says "paint the 
+walls and ceiling - one coat."
+Charles' "one color only" / "match 
+existing" framing is not language located 
+in the reviewed State Farm estimate.
+HIGH
+Payment documentation Anne documented three different totals: 
+$38,159.84, $38,979.92 and $39,917.96,
+then repeatedly asked how the amount 
+was derived.
+Later references to "payment delay" omit
+the documented dispute over what 
+amount was actually supported.
+HIGH
+Scope overlap / credits State Farm already pays for kitchen 
+plumbing, electrical code work and 
+countertop baseline work; CO2/CO3 add
+customer-funded work in those same 
+trades.
+Need a crosswalk showing what was 
+replaced, what was upgraded, and what 
+insurance allowance was credited.
+HIGH
+Delay attribution Dry1Out cited scope changes, payment 
+delays and late selections; Anne 
+contemporaneously disputed scope 
+changes and noted long periods with 
+little onsite work.
+Any owner-caused delay claim should be
+tied to a dated event and measurable 
+schedule impact.
+MED-HIGH
+Engineering / pass-through CO2 contains a $12,800 engineering bid 
+item and applies overall O&P. The 
+document allows excluded items when 
+specifically written.
+Not inherently improper, but underlying 
+proposal/invoice and markup basis 
+should be produced.
+MEDIUM
+Hazardous material CO2 charges $4,310.50 for "Hazardous 
+Material Remediation" while separately 
+excluding asbestos and lead abatement.
+Identify the actual hazard, testing, 
+contractor and supporting invoice before 
+drawing conclusions.
+MEDIUM
+License status Claude reported CSLB #993442 as 
+suspended, but the attachments do not 
+establish current status or effective 
+dates.
+Potentially major legal issue, but it must 
+be independently verified before use.
+VERIFY
+KEY DOCUMENTED FACTS
+Paint: State Farm contains room-specific paint quantities and one-coat line items. It also states the kitchen fire requires sealing and 
+painting throughout to address smoke odor.
+Contractor relationship: State Farm states the contractor is hired by the insured and works for the insured, not State Farm.
+Dry1Out upgrade language: Dry1Out's CUSTOMER_UPGRADES estimate says replacement need not be an identical match to 
+preexisting conditions.
+
+Condensed documentation review | Not legal advice
+Billing dispute: Anne expressly requested trades, Dry1Out labor, subcontractor items, materials, tax and O&P. Charles responded 
+that the amount due was what accounting put on the invoice.
+Authority: On July 10, Anne told Dry1Out in writing that Daniel has "full decision power" and can be treated as "the same voice and 
+authority as me."
+Wire: The correspondence contains proof of a $6,979.92 transfer to Restoration Specialists dba Dry1Out, including a confirmation 
+number, after Anne had documented the amount dispute.
+FIVE RECORDS THAT WOULD SETTLE MOST OF THIS
+1. Paint authority: exact contract/estimate provision supporting a one-color or existing-color restriction.
+2. Scope-credit crosswalk: State Farm-funded scope -> owner-requested upgrade -> credit for displaced insurance work -> 
+incremental owner charge.
+3. Payment ledger: every invoice, payment, wire/check, credit and current balance, with each payment applied to a specific 
+contract/change-order line.
+4. Backup for bid/pass-through charges: engineer proposal/invoice, hazardous-material testing/remediation support, and the Gurries 
+Electrical sub-estimate referenced by State Farm.
+5. Delay chronology: each claimed owner-caused delay, date, dependency, number of days, and actual impact on completion.
+DO NOT OVERSTATE
+• Do not claim the signed change-order arithmetic is fraudulent. The totals reviewed reconcile internally.
+• Do not call the plumbing/electrical/countertop overlap "double billing" until credits and final invoicing are reconciled.
+• Do not treat "hazardous material remediation" as asbestos work without supporting records.
+• Do not rely on the reported CSLB suspension until the current license record and effective dates are independently verified.
+PRIMARY SOURCES
+• State Farm final approved estimate, 05-80C1-98PC, dated 9/30/2025.
+• Dry1Out Change Orders #1, #2 and #3, including CUSTOMER_UPGRADES and kitchen-layout exhibits.
+• Comprehensive correspondence emails, 33 pages, covering June-August 2026 payment, schedule, scope and project-management
+communications.

@@ -1,0 +1,7 @@
+# IDE and OS artifacts — not project record
+.idea/
+desktop.ini
+._*
+.__removed
+Thumbs.db
+.DS_Store

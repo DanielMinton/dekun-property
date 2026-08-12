@@ -1,0 +1,110 @@
+DEKUN PROJECT 250033BC: FINDINGS REPORT
+Fire restoration and remodel, 361 Arroyo Dr, S. San Francisco. Contractor: Restoration Specialists, Inc dba Dry1out
+(CSLB #993442). Prepared August 10, 2026 from: Change Orders 1-3, State Farm estimate 05-80C1-98PC, payment
+records, CSLB license record, and 33 pages of email correspondence.
+ACT NOW - IN PRIORITY ORDER
+1. Deposit or reissue the $7,274.77 State Farm check (issued Feb 4, 2026, still uncashed). It is the ENTIRE remaining
+insurance payment and is at the ~180-day stale line right now. Adjuster: Austin Wells, 844-458-4300 ext. 60147.
+2. Get the CSLB suspension date. License #993442 is currently SUSPENDED for an unpaid civil judgment. Screenshot the
+record today (cslb.ca.gov). Call CSLB 800-321-2752 for the effective date. If it predates the June-July payment demands, he
+solicited payment while suspended.
+3. Pay nothing further and sign nothing further until a construction attorney reviews the suspension. Under B&P Code
+7031 an unlicensed/suspended contractor generally cannot collect for that period, and amounts already paid may be
+recoverable.
+4. Call State Farm about the $12,800 engineering fee. Charles said he will submit owner-upgrade drawings to State Farm
+as a claim supplement AFTER billing Anne for them. Claims go in under Anne's name. Tell Austin Wells these were
+owner-paid upgrade costs.
+5. Confirm whether the $32,000 check cleared (left at house Jul 23). If it cleared while he wrote 'we have not yet received
+your bank wire' emails, that is one more documented misrepresentation.
+1. DOCUMENTED DECEPTION (contradicted by records in hand)
+1.1 License displayed while suspended. Every email footer and contract shows CSLB #993442. The license record
+currently reads: "License is suspended for failure to comply with an outstanding civil judgment." Workers' comp is
+classified code 9008 (Janitorial Services) while crews perform framing, stucco, plumbing, and roof work. Injury on site
+could become a homeowner problem.
+1.2 False claim of completed cleanup (Gary, Jul 21). "I had the stucco guys go back and clean up... and was sent
+these pictures the day they where there cleaning." Anne documented on Jul 19 that the plasterer never came and Daniel
+did the cleaning himself. Gary claimed credit, with photos, for work your side performed.
+1.3 False claim of completed plumbing (Charles, Jul 20). "Our understanding is that this work has already been
+completed." Anne had written the day before that the fridge water line was NOT installed. That line is also billed twice:
+inside CO2's $3,845 plumbing scope (ice-maker rough-in) and again in CO3 as $850 "relocate refrigerator water line."
+Fridge electrical is similarly doubled: CO2 $950 and CO3 $1,050. Billed twice, installed zero times as of mid-July.
+1.4 Three conflicting amounts for one debt, then stonewalling. Jun 30 demand: $38,159.84. Invoice #6780972:
+$39,917.96 ($23,000 + $16,917.96). His own stated policy (Jul 7): "invoice 50% of each change order on approval," which
+computes to $28,908.99. Only the $16,917.96 reconciles (CO2 lines 5,6,7,9,10 = $14,098.30 x 1.2, verified). Asked for a
+derivation, he replied "It's stated on the invoice what we are invoicing." One dunning email opens "Hi Anju", another
+customer's name; these are recycled templates.
+1.5 Feigned non-receipt of payment (Aug 5). "We have not yet received your bank wire. Could you please confirm if it
+has been sent?" Anne sent the wire confirmation into the same thread Jul 23: $6,979.92 to the exact Wells Fargo account
+and routing number Charles supplied, plus the $32,000 check. He asked a question he had the documented answer to,
+and used it to build a "payment delays" narrative. Total paid Jul 23: $38,979.92, matching Anne's stated figure.
+1.6 Fabricated delay causes. Aug 5 blames "city inspection corrections, scope changes, payment delays, and late
+material selections." The record: the 7/10 completion date (reaffirmed in CO3, signed Jun 23) was blown before any
+payment was late; Anne states, unrebutted, that no scope changes occurred; the tile selection was requested and
+provided in early August; the site sat idle for long stretches. On Jul 20 he told Anne to ask State Farm herself for an
+extension for a delay his company created. Timeline slid 7/10 to 7/31 to Sept 11 with no documented cause.
+
+1.7 Misstated insurance paint scope (Aug 7). Charles listed kitchen, family room, hallway, laundry. The approved
+estimate ALSO pays seal + paint in the Entry Hall, Closet, 1/2 Bath, and Stairs, and notes "seal and paint is needed
+throughout to cover smoke smell." "Matched to existing colors" appears nowhere in the estimate; it pays quantities (1 seal
++ 1 finish coat per room), so color-change upcharges are only legitimate where extra coats or cut lines are actually
+needed.
+2. DECEPTIVE PATTERN, ONE DOCUMENT SHORT OF PROOF
+2.1 The $12,800 engineering double-track. CO2 billed Anne $12,800 for drawings for HER upgrades (wall removal,
+skylight), plus 20% markup, even though CO2's own assumptions say plans/permits are excluded. Jul 20: Charles says
+he will submit the drawings to State Farm for coverage. If both pay, that is double recovery, submitted under Anne's
+policy with the fraud warning printed on it. Demand the engineer's actual invoice.
+2.2 "Cost savings reflected in your change order." Anne asked whether the 25-30% Floor & Decor July 4th promotion
+was passed through. Charles asserted savings while (per Anne's unrebutted Aug 3 email) telling Daniel they "do not
+make materials costs transparent or provide receipts." An uncheckable assurance by design. Demand receipts; CA law
+supports access to backup on cost-plus billings.
+2.3 CO5 signature pressure with undisclosed costs. Daily Adobe Sign reminders to sign CO5 while the tile/countertop
+pricing inside its scope was withheld. CO3 promised countertop pricing "once obtained" in June; still not provided in
+August. Sign-first, price-later is the operating system here.
+2.4 Open-ended charges. "Taxes, insurance, permits & fees: AS INCURRED" with no cap and no receipts policy;
+$2,403.60 billed for 24 hours of project supervision while the site sat idle; 20% O&P; layered on pass-through
+engineering.
+3. THE MONEY MAP (all figures verified computationally)
+Contract build-up
+Original contract $54,448.97
+CO1 (insurance supplement, 11/28/25) + $7,012.90
+CO2 (owner upgrades, 12/11/25) + $57,817.97
+CO3 (plumb/elec/cabinets, 6/16/26) + $4,380.00
+Current contract (CO4/CO5 not in hand) $123,659.84
+Insurance side
+State Farm approved RCV (incl. $3,685 code) $61,461.87
+= Original + CO1 exactly. Fully reconciled.
+Check May 2, 2025 (cashed) $54,187.10
+Check Feb 4, 2026 (UNCASHED) $7,274.77
+Check Apr 10, 2025 (cashed; NOT credited in dwelling claim; identify what it paid) $6,960.28
+Owner out-of-pocket side
+CO2 + CO3 owner obligation $62,197.97
+Paid Jul 23: $32,000 check + $6,979.92 wire $38,979.92
+The change-order arithmetic itself is internally consistent to the penny. The problem is not the addition; it is what is being
+added: overlapping scopes, undisclosed prices, unverifiable claims, and invoices that match no stated basis.
+4. WHAT DRY1OUT STILL OWES YOU (all documented)
+• Countertop upgrade price, promised in CO3 (June) "once obtained." Must be NET of the insurance laminate allowance
+(~$1,850) or they collect twice.
+
+• Written revised completion date. Contractual date 7/10/26 passed; slid to 7/31, then Sept 11, with no documented
+cause.
+• Gurries Electrical sub-estimate ($3,685 insurance bid item) and a scope-credit accounting for CO2/CO3 electrical and
+plumbing overlap.
+• Engineer's actual invoice behind the $12,800 fee, and hazmat lab report behind CO2's $4,310.50 remediation line
+(CO2's own exclusions say asbestos/lead are excluded).
+• Floor & Decor receipts proving promotion savings were passed through.
+• Written statement of which invoice the $6,979.92 wire and $32,000 check were applied against.
+5. NOT WORTH FIGHTING (so you keep credibility for what is)
+The $16,917.96 invoice component is contractually coherent (CO2 lines x 1.2 mirrors how CO2 was priced). Progress
+billing on signed change orders is normal. "Paint everything at once" is true and standard. Billing $23,000 against the
+original contract is legitimate since Anne holds the insurance funds. Checks payable to "Anne E. Dekun & Umpqua Bank
+ISAOA-ATIMA" are standard mortgagee practice, not a red flag.
+6. LEVERAGE SUMMARY
+You hold: (a) a suspended-license contractor demanding payment in writing, (b) two written false claims of completed
+work, (c) double-billed line items across CO2/CO3, (d) an admitted no-receipts policy against a claimed cost-savings
+pass-through, (e) a threatened insurance submission of owner-paid costs, and (f) a blown contractual deadline with a
+fabricated cause list. Sequence: attorney first, CSLB suspension date second, State Farm call third, then the
+walkthrough. Do not reveal the license finding until counsel says how to use it; it is likely your single strongest card and
+you only get to play it once.
+Sources: Change Orders 1-3 (Dry1out); State Farm estimate 05-80C1-98PC (9/30/25); State Farm payment records; CSLB license record
+#993442 (retrieved 8/10/26); email correspondence 6/30/26 - 8/7/26 (33 pp). This report is an analysis of documents provided; it is not legal
+advice. Confirm license status and legal strategy with a California construction attorney.
